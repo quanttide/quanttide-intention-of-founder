@@ -13,3 +13,4 @@
 ### 新增
 
 - 初始化意图仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`
+- 新增 `language/index.md`：语用工程意图——领域短名、四道检查、目标与边界。
