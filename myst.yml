@@ -9,6 +9,7 @@ project:
   toc:
     - file: index.md
     - file: language/index.md
+    - file: qtgame-war/index.md
 site:
   template: book-theme
   options:
