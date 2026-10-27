@@ -12,6 +12,8 @@
 
 ### 新增
 
+- 新增 `qtcloud-business/index.md`：商务报价工具意图——面向技术软件服务商的报价与谈判辅助，内容自 `data/context` 的 product 草稿迁入并改写体例
+- 新增 `qtcloud-agent/index.md`：人机协作的摩擦与意图校验——通过分析对话判断 AI 有没有实现人类意图，内容自 `data/context` 的 product 草稿迁入并改写体例
 - 初始化意图仓库：`README.md`、`index.md`（入口，待补充）、`myst.yml`
 - 新增 `language/index.md`：语用工程意图——领域短名、四道检查、目标与边界。
 - 新增 `qtgame-war/index.md`：迷雾中的司令部意图——判断而非操作、迷雾成为玩法主体、三层甲板与受限对手；内容自 `data/context` 的游戏集迁入并改写体例。

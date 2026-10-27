@@ -20,3 +20,5 @@
 
 - [语用工程](language/index.md)：在大模型时代重新定义语言工程质量。
 - [迷雾中的司令部](qtgame-war/index.md)：以豫东战役为背景的指挥官视角战棋——玩判断，不玩操作。
+- [商务报价工具](qtcloud-business/index.md)：把长期做乙方积累的报价经验做成可输出的体系。
+- [人机协作的摩擦与意图校验](qtcloud-agent/index.md)：通过分析对话判断 AI 有没有实现人类意图。
