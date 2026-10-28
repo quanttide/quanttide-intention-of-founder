@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### 变更
+
+- `qtgame-war/index.md`：「要什么」补一条——游戏本身很难，爽感来自在 AI 帮助下洞察战场态势；内容自 `data/context` 的意图碎片迁入
+
 ### 新增
 
 - 新增 `qtcloud-business/index.md`：商务报价工具意图——面向技术软件服务商的报价与谈判辅助，内容自 `data/context` 的 product 草稿迁入并改写体例
