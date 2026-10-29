@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### 新增
+
+- `default/journal-annonation.md`：日志标注意图，自 `data/context` 由 `qtfounder asset maintain` 迁入
+
 ### 变更
 
 - `qtgame-war/index.md`：「要什么」补一条——游戏本身很难，爽感来自在 AI 帮助下洞察战场态势；内容自 `data/context` 的意图碎片迁入
