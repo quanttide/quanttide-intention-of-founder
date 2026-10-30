@@ -11,6 +11,7 @@ project:
     - file: language/index.md
     - file: qtcloud-business/index.md
     - file: qtcloud-agent/index.md
+    - file: qtfounder/studio.md
 site:
   template: book-theme
   options:

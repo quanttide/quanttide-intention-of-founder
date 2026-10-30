@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### 新增
+
+- `qtfounder/studio.md`：Studio 原型 v3 设计（河床工作流），自 qtcloud `docs/dev-guide/studio.md` 迁入；`qtfounder/` 为新增域目录，README、index 与 `myst.yml` 目录同步
+
 ### Removed
 
 - `qtgame-war/index.md`（迷雾中的司令部意图）迁出为独立仓 `quanttide-intention-of-war-gaming`；index、README 与 `myst.yml` 目录同步
