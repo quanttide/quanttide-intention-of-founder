@@ -9,7 +9,6 @@ project:
   toc:
     - file: index.md
     - file: language/index.md
-    - file: qtgame-war/index.md
     - file: qtcloud-business/index.md
     - file: qtcloud-agent/index.md
 site:

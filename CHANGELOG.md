@@ -10,6 +10,10 @@
 
 ## [Unreleased]
 
+### Removed
+
+- `qtgame-war/index.md`（迷雾中的司令部意图）迁出为独立仓 `quanttide-intention-of-war-gaming`；index、README 与 `myst.yml` 目录同步
+
 ### 新增
 
 - `agent/roadmap-based-collaboration.md`：团队级 roadmap 协作意图，自 `data/context/agent/intention/` 由 `qtfounder asset maintain` 迁入；`agent/` 为新增域目录
