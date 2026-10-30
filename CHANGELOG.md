@@ -12,6 +12,7 @@
 
 ### 新增
 
+- `agent/roadmap-based-collaboration.md`：团队级 roadmap 协作意图，自 `data/context/agent/intention/` 由 `qtfounder asset maintain` 迁入；`agent/` 为新增域目录
 - `default/journal-annonation.md`：日志标注意图，自 `data/context` 由 `qtfounder asset maintain` 迁入
 
 ### 变更
