@@ -12,6 +12,7 @@
 
 ### 新增
 
+- `default/diary-chat.md`：日记对话产品愿景——用积累的日志做跨时空自我对话，自 `data/context` 按资产契约迁入
 - `qtfounder/studio.md`：Studio 原型 v3 设计（河床工作流），自 qtcloud `docs/dev-guide/studio.md` 迁入；`qtfounder/` 为新增域目录，README、index 与 `myst.yml` 目录同步
 
 ### Removed
