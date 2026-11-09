@@ -18,6 +18,7 @@
 
 ## 目录
 
+- [default 集主线归纳](default/index.md)：2026-11 的转型主线——控制驱动转现实意义驱动、设问优于答题、创始人退到 20%、System 2 转 System 1。
 - [语用工程](language/index.md)：在大模型时代重新定义语言工程质量。
 - [商务报价工具](qtcloud-business/index.md)：把长期做乙方积累的报价经验做成可输出的体系。
 - [人机协作的摩擦与意图校验](qtcloud-agent/index.md)：通过分析对话判断 AI 有没有实现人类意图。

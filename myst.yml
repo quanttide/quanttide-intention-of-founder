@@ -8,6 +8,7 @@ project:
   license: CC-BY-4.0
   toc:
     - file: index.md
+    - file: default/index.md
     - file: language/index.md
     - file: qtcloud-business/index.md
     - file: qtcloud-agent/index.md
