@@ -13,6 +13,7 @@ project:
     - file: qtcloud-business/index.md
     - file: qtcloud-agent/index.md
     - file: qtfounder/studio.md
+    - file: qtgame-love/index.md
 site:
   template: book-theme
   options:
